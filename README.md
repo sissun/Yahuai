@@ -1,4 +1,4 @@
-# A computerized facial approximation method for Homo sapiens based on facial soft tissue thickness depths and geometric morphometrics (JOA 2023)
+# Facial approximation of a Late Pleistocene Human Fossil in the Yahuai Cave, southern China
 
 
 ## Introduction
@@ -12,7 +12,7 @@ An almost complete human cranium, alongside a partial mandible dating to approxi
 
 
 Establish the dense point corresondences using the TPS and NICP Method and perform geometric mrophometrics:  
-Please see the following link:https://github.com/sissun/Geometric_morphometrics
+Please see the following link: https://github.com/sissun/Geometric_morphometrics
 
 The quantification of surface asymmetry:
 Please see the following paper: https://github.com/sissun/Asymmetry_detection
@@ -26,6 +26,4 @@ If you find this project helpful to your research, please consider citing:
   author={Shui, Wuyang, Xie, Guangmao, He, Letian, Lin, Qiang, Yu, Minghui, Lu, Jieying, Zhou, Mingquan, Wu, Xiujie} 
 }
 ```
-# Facial approxiamtion of the Yahuai skull# Yahuai
-# Yahui
-# FA_Yahuai
+# Facial approxiamtion of the Yahuai skull## Yahuai
