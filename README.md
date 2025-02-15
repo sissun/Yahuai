@@ -26,4 +26,4 @@ If you find this project helpful to your research, please consider citing:
   author={Shui, Wuyang, Xie, Guangmao, He, Letian, Lin, Qiang, Yu, Minghui, Lu, Jieying, Zhou, Mingquan, Wu, Xiujie} 
 }
 ```
-# Facial approxiamtion of the Yahuai skull
+# Facial approxiamtion of the Yahuai skull# Yahuai
