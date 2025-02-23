@@ -22,8 +22,12 @@ Please see the following paper: https://github.com/sissun/Asymmetry_detection
 If you find this project helpful to your research, please consider citing:
 
 ```
-@article{title={Facial approximation of a Late Pleistocene Human Fossil in the Yahuai Cave, southern China},
+@article{https://doi.org/10.1016/j.jas.2025.106180,
+  title={Facial approximation of a Late Pleistocene Human Fossil in the Yahuai Cave, southern China},
   author={Shui, Wuyang, Xie, Guangmao, He, Letian, Lin, Qiang, Yu, Minghui, Lu, Jieying, Zhou, Mingquan, Wu, Xiujie} 
+  journal={Journal of Archaeological science},
+  year = {2025},
 }
 ```
 # Facial approxiamtion of the Yahuai skull## Yahuai
+# Yahuai
